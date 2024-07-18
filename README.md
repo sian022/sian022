@@ -27,10 +27,10 @@ I'm **Sian**, a dedicated Full Stack Software Developer with a user-first approa
 
 Here are some of my recent projects:
 
-### [Expense Tracker](https://github.com/username/expense-tracker)
+### [Expense Tracker](https://github.com/sian022/expense-tracker)
 A web desktop application for tracking expenses, featuring a sleek design and robust functionality.
 
-### [Pharmacy IMS](https://github.com/username/pharmacy-ims)
+### [Pharmacy IMS]((https://github.com/pionsoftwares/botica-plus-plus))
 An inventory management system for pharmacies, designed for offline use with reliable data backup strategies.
 
 ---
@@ -39,12 +39,11 @@ An inventory management system for pharmacies, designed for offline use with rel
 
 I'm always open to new opportunities and collaborations! Feel free to reach out and connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/sian)
-- [Twitter](https://twitter.com/sian)
-- [Email](mailto:sian@example.com)
+- [LinkedIn](https://www.linkedin.com/in/siandc)
+- [Email](delacruzsian@gmail.com)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=username&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sian022&color=blueviolet&style=flat-square)
 
 Thanks for stopping by! Have a great day! 😊
