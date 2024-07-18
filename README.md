@@ -1,6 +1,6 @@
 # 💻 Sian | Full Stack Software Developer
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile!)
+[comment]: <>![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile!)
 
 ### Hi there 👋
 
@@ -25,21 +25,17 @@ I'm **Sian**, a dedicated Full Stack Software Developer with a user-first approa
 
 ## 🛠️ Projects
 
-### [Expense Tracker](https://github.com/sian022/expense-tracker)
-![Expense Tracker](https://img.shields.io/badge/Expense%20Tracker-3f51b5?style=flat-square&logo=react)
-A web desktop application for tracking expenses, featuring a sleek design and robust functionality.
-
 ### Arcana (Private Repository)
-![Arcana](https://img.shields.io/badge/Arcana-ff9800?style=flat-square&logo=database)
 A system for Customer Management, POS, Payment, and Inventory. It is a large system that is going to be used at scale by distributors.
 
 ### E.R. Pineda Accounting (Private Repository)
-![E.R. Pineda Accounting](https://img.shields.io/badge/E.R.%20Pineda%20Accounting-4caf50?style=flat-square&logo=accounting)
 A freelance system that I developed full stack for an accounting firm. They use it for client management and billing generation.
 
 ### Botica Plus + (Private Repository)
-![Botica Plus](https://img.shields.io/badge/Botica%20Plus-2196f3?style=flat-square&logo=medication)
 An inventory management system for Botica Plus, a Philippines nationwide pharmacy chain, designed for offline use with reliable data backup strategies.
+
+### [Expense Tracker](https://github.com/sian022/expense-tracker)
+A web desktop application for tracking expenses, featuring a sleek design and robust functionality.
 
 ---
 
