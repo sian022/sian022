@@ -1,6 +1,6 @@
 # 💻 Sian | Full Stack Software Developer
 
-[comment]: <>![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile!)
+![Profile Banner](https://github.com/sian022/sian022/blob/main/sian022-github-header.png)
 
 ### Hi there 👋
 
