@@ -10,7 +10,7 @@ I'm **Sian**, a dedicated Full Stack Software Developer with a user-first approa
 
 ## 🚀 Skills and Expertise
 
-- **Frontend Development**: Expertise in [React JS](https://reactjs.org) for building dynamic user interfaces.
+- **Frontend Development**: Expertise in [React JS](https://reactjs.org) and [Vue JS](https://vuejs.org) for building dynamic user interfaces.
 - **Backend Development**: Proficiency in [Express](https://expressjs.com) and [Node.js](https://nodejs.org) for robust server-side logic.
 - **Database Management**: Experience with [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org), and [MongoDB](https://www.mongodb.com) for efficient data storage and retrieval.
 - **State Management**: Skilled in [Redux/RTK](https://redux-toolkit.js.org) and [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) for maintaining application state.
@@ -20,6 +20,7 @@ I'm **Sian**, a dedicated Full Stack Software Developer with a user-first approa
 - **Freelance Experience**: Successfully completed projects for various companies, delivering tailored solutions that meet client specifications and timelines.
 - **VPS Management**: Experience in managing Virtual Private Servers (VPS) for deployment and maintenance of applications.
 - **Web Hosting**: Proficient in deploying applications to various web hosting services.
+- **Containerization**: Experienced in using [Docker](https://www.docker.com) to ensure cross-machine compatibility and quick startup of projects.
 
 ---
 
@@ -37,6 +38,9 @@ An inventory management system for Botica Plus, a Philippines nationwide pharmac
 ### [Expense Tracker](https://github.com/sian022/expense-tracker)
 A web desktop application for tracking expenses, featuring a sleek design and robust functionality.
 
+### [Cortico Landing Page](https://cortico.health) (Private Repository)
+A landing page I developed for a Canadian healthcare company.
+
 ---
 
 ## 🌐 Portfolio
@@ -50,7 +54,7 @@ Check out my portfolio at [siandelacruz.com](https://siandelacruz.com) to see mo
 I'm always open to new opportunities and collaborations! Feel free to reach out and connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/siandc)
-- [Email](mailto:delacruzsian@gmail.com)
+- [Email](mailto:delacruzsian22@gmail.com)
 
 ---
 
