@@ -41,6 +41,8 @@ A web desktop application for tracking expenses, featuring a sleek design and ro
 ### [Cortico Landing Page](https://cortico.health) (Private Repository)
 A landing page I developed for a Canadian healthcare company.
 
+### And many more!
+
 ---
 
 ## 🌐 Portfolio
